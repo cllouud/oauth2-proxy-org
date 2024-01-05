@@ -3,5 +3,5 @@
 package tools
 
 import (
-	_ "github.com/oauth2-proxy/tools/reference-gen/cmd/reference-gen"
+	_ "github.com/oauth2-proxy/tools/reference-gen/cmd/reference-gen"wgwgwg
 )
